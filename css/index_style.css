@@ -1,0 +1,34 @@
+#bttn{
+    background-color:#3b5998;  
+    color: #fff;
+
+}
+
+#bttn:hover{
+background-color: #f1f1f1;
+   
+  
+}
+
+
+
+
+ .icon  { 
+    display:none;
+     
+}
+
+
+#bttn :hover .icon{
+display:block;
+}
+#bton{
+    background-color: #1da1f2;
+    color:#fff;
+}
+#bton:hover{
+background-color: #f1f1f1;
+    
+
+}
+
